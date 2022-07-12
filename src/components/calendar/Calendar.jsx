@@ -28,7 +28,7 @@ const Calendar = () => {
             <CardGroup>               
                     {/* {products.forEach(product => )} */}
                     {console.log(products)}
-                    {products.map((product,index) => {
+                    {products.map((product) => {
                           
 
                         return(
