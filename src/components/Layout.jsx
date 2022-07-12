@@ -7,7 +7,7 @@ const Layout = () => {
     return (
         <div >
 
-            <FilterSort/>
+            <FilterSort/>  {/* dar nedadarytas */}
             <Calendar/>
 
         </div>
